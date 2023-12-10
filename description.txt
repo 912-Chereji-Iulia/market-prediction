@@ -1,0 +1,7 @@
+This is the final project for the data toolkit class. Below, the used git commands will be displayed:
+     initialize a new Git repository in your local project directory: git init
+     ?GITIGNORE
+     add files to the staging area: git add description.txt
+     commit files: git commit -m "Initial commit"
+     Add Remote Origin: In your local project directory, open a terminal or command prompt, then
+                        git remote add origin https://github.com/912-Chereji-Iulia/market-prediction.git

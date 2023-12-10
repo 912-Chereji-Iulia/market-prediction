@@ -1,0 +1,40 @@
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+venv/
+
+# Ignore local configuration files
+*.env
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+
+# Ignore logs and temporary files
+logs/
+*.log
+*.swp
+
+# Ignore database files
+*.db
+
+# Ignore compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Ignore package files
+*.egg
+*.egg-info/
+dist/
+build/
