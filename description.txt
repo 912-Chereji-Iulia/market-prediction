@@ -8,4 +8,4 @@ This is the final project for the data toolkit class. Below, the used git comman
                     After setting the upstream branch with -u, you can simply use git push or git pull in the future without specifying the branch name,
                     and Git will know you're referring to the main branch on the origin remote.
      Create branch: git checkout main -> git checkout -b feature/add-about-project ( create & switch )
-     Pull changes: git fetch origin main -> git merge origin/main -> commit& push again
+     Pull changes: git fetch origin main -> git merge origin/main -> commit & push again
