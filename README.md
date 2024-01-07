@@ -18,7 +18,7 @@ This repository contains a simple example on how to properly use git commands,
 illustrated on txt and py files. It includes the creation of branches, committing and pushing files, 
 and merging changes. 
 ```
-The file 'description.txt' contains all the used commands.
+IMPORTANT: The file 'description.txt' contains all the used commands.
 ```
 
 ## Usage 
@@ -43,7 +43,7 @@ In order to contribute to this project, follow the steps below:
 4. Make changes and commit them with descriptive messages: 
   ```bash
 git add .
-git commit -m "commit message"
+git commit -m "suggestive commit message"
   ```
 6. Push your branch to your forked repository: `git push origin feature/added-feature`
 7. Open a pull request on GitHub in order to merge your changes into the main branch.
