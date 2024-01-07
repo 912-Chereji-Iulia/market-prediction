@@ -16,7 +16,10 @@ effectively manage a project.
 
 This repository contains a simple example on how to properly use git commands,
 illustrated on txt and py files. It includes the creation of branches, committing and pushing files, 
-and merging changes.
+and merging changes. 
+```
+The file 'description.txt' contains all the used commands.
+```
 
 ## Usage 
 
@@ -29,7 +32,7 @@ feature branch
 ## Branches
 
 1. main:  Main branch containing the stable version of the application.
-2. feature/add-about-project:  Branch for adding the ’About the application’ section.
+2. feature/add-about-project:  Branch for adding the ’About the application’ section, more specifically the appinfo.txt file.
 
 ## Contributing
 
@@ -43,3 +46,4 @@ git add .
 git commit -m "commit message"
   ```
 6. Push your branch to your forked repository: `git push origin feature/added-feature`
+7. Open a pull request on GitHub in order to merge your changes into the main branch.
