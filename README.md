@@ -7,8 +7,8 @@ effectively manage a project.
 
 ## Table of Contents
 - [Description](#description)
-- [Usage](#getting-started)
-- [Branches](#contributing)
+- [Structure](#structure)
+- [Branches](#branches)
 - [Contributing](#contributing)
 
 
@@ -21,18 +21,19 @@ and merging changes.
 IMPORTANT: The file 'description.txt' contains all the used commands.
 ```
 
-## Usage 
+## Structure
 
 The project structure is as follows:
-1. main.py:  The main python file with basic python code.
-2. description.txt :  A text file containing the used git commands for different purposes
-3. appinfo.txt: A file containing info about the application, added on a separate 
+1. **main.py**:  The main python file with basic python code.
+2. **description.txt** :  A text file containing the used git commands for different purposes
+3. **appinfo.txt**: A file containing info about the application, added on a separate 
 feature branch
 
 ## Branches
 
-1. main:  Main branch containing the stable version of the application.
-2. feature/add-about-project:  Branch for adding the ’About the application’ section, more specifically the appinfo.txt file.
+1. **main**:  Main branch containing the stable version of the application. It is the branch on which code was added in the main.py file,
+in order to simulate a pull in the feature branch.
+2. **feature/add-about-project**:  Branch for adding the ’About the application’ section, more specifically the appinfo.txt file.
 
 ## Contributing
 
