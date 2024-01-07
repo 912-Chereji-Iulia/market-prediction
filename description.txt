@@ -15,4 +15,4 @@ This is the final project for the data toolkit class. Below, the used git comman
      9. Merge changes from 'feature/add-about-project' into 'main': git merge feature/add-about-project -> git push origin main
      10. Rebasing: It's a good practice to integrate the latest changes from the main branch into your feature branch before merging
         back into main -> on feature/add-about-project, use: git rebase main
-     11. Check status: git status
+     11. Check status of the repo: git status
